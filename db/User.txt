@@ -6,5 +6,13 @@
     "role": {
       "__enum__": "normal"
     }
+  },
+  {
+    "id": 1,
+    "username": "jia",
+    "password": "55c0bf65203efba0d33b158306da9564ff4e0e761e5cf3c97f24270c7620dd68",
+    "role": {
+      "__enum__": "normal"
+    }
   }
 ]

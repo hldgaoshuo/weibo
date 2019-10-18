@@ -1,12 +1,7 @@
 [
   {
     "id": 0,
-    "content": "哈哈哈",
-    "user_id": 0
-  },
-  {
-    "id": 1,
-    "content": "啦啦啦",
+    "content": "修改微博",
     "user_id": 0
   }
 ]

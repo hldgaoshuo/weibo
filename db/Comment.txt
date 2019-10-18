@@ -10,5 +10,17 @@
     "content": "帮帮帮",
     "user_id": 0,
     "weibo_id": 0
+  },
+  {
+    "id": 2,
+    "content": "评论微博",
+    "user_id": 0,
+    "weibo_id": 2
+  },
+  {
+    "id": 3,
+    "content": "再评论",
+    "user_id": 0,
+    "weibo_id": 2
   }
 ]
